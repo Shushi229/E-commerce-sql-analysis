@@ -93,5 +93,5 @@ This is a foundational SQL project and can be expanded with joins, subqueries, o
 
 Feel free to reach out with any questions or suggestions for improvement!
 
-- LinkedIn: [saurabhhupadhyay](https://linkedin.com/in/saurabhhupadhyay)
+- LinkedIn: (https://linkedin.com/in/saurabhhupadhyay)
 - Email: saurabhu.2004@gmail.com
