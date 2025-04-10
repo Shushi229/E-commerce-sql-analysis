@@ -89,5 +89,9 @@ The SellPrice and MRP fields were kept as VARCHAR due to formatting (Rs), but th
 
 This is a foundational SQL project and can be expanded with joins, subqueries, or advanced analytics.
 
-📧saurabhu.2004@gmail.com 
-🌐 LinkedIn Profile www.linkedin.com/in/saurabhhupadhyay
+## 📧 Contact
+
+Feel free to reach out with any questions or suggestions for improvement!
+
+- LinkedIn: [saurabhhupadhyay](https://linkedin.com/in/saurabhhupadhyay)
+- Email: saurabhu.2004@gmail.com
