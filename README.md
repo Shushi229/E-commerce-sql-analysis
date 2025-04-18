@@ -91,10 +91,10 @@ This is a foundational SQL project and can be expanded with joins, subqueries, o
 
 ## 📧 Contact
 
-Feel free to reach out with any questions or suggestions for improvement!
+Feel free to connect or reach out for feedback or collaboration:
 
-- LinkedIn: (https://linkedin.com/in/saurabhhupadhyay)
-- Email: saurabhu.2004@gmail.com
+- 🔗 [LinkedIn – saurabhhupadhyay](https://linkedin.com/in/saurabhhupadhyay)  
+- 📩 Email: saurabhu.2004@gmail.com
 
 > 💾 This project is focused on SQL-based analysis. All queries are written and executed using SQL and stored in `analysis_queries.sql` and `database_setup.sql`.
 
