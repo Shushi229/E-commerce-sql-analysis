@@ -62,18 +62,19 @@ WHERE Discount = '50% off';
 🔸 Sort by Selling Price
 SELECT * FROM products
 ORDER BY SellPrice ASC;
-📸 Screenshots
+```
+## 📸 Screenshots
 Screenshots for each query output are included in the /screenshots folder.
 Each screenshot is named according to the query it represents for easy navigation and understanding.
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 MySQL Workbench – for executing queries
 
 Excel – for the raw data
 
 GitHub – version control and project sharing
 
-🧠 Learning Outcomes
+## 🧠 Learning Outcomes
 By completing this project, I learned how to:
 
 Create and query SQL tables
@@ -84,7 +85,7 @@ Use aggregate functions and views
 
 Organize SQL output and document a data project
 
-📌 Notes
+## 📌 Notes
 The SellPrice and MRP fields were kept as VARCHAR due to formatting (Rs), but they can be cleaned and converted to numeric values for deeper price-based analysis.
 
 This is a foundational SQL project and can be expanded with joins, subqueries, or advanced analytics.
